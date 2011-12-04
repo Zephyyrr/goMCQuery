@@ -1,0 +1,10 @@
+This project is released under the Apache license v2.0.
+
+In a recent update, Notch and Mojang Specification added a query function to Minecraft servers.
+Since I am learning Go, I thought I might make a Go application using this. After some consideration, I decided to release the library I developed for this.
+
+It supports connecting to a server, requesting a "Challenge code" and querying for a short and long package.
+I am aware of the horrible documentation, but that was not a high priority while coding.
+It will be done, just not this weekend.
+
+More information can be found at http://wiki.vg/Query
